@@ -31,7 +31,7 @@ ul li a :hover {
   color: #009ad8 !important;
 }
 .background {
-  background-image: url(../banner.png);
+  background-image: url(../c6146e5c80854a9d87524f08feceb548.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -40,6 +40,7 @@ ul li a :hover {
 .bg-frow {
   background: rgba(0, 0, 0, 0.1);
   color: #bfc1c8;
+  padding: 15px 0;
 }
 .backgroundrow {
   background: #262936cb;
