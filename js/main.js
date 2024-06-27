@@ -86,7 +86,7 @@ search.addEventListener("keyup", function () {
   all(search.value);
 });
 
-async function all(city = "mansoura") {
+async function all(city = "cairo") {
   let allfunctions = await getapi(city);
   if (allfunctions) {
     displayCurrentDay(allfunctions);
